@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a307994-0908-49ae-b0c7-c99bf134ce2c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/peugeot/utils/repair_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/peugeot/utils/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/peugeot/chg_sql_xls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#581#1069#0" />
+                <element signature="e#1106#1846#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/peugeot/chg_sql_xml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding>
+                <element signature="e#507#996#0" />
+                <element signature="e#601#936#0" />
+                <element signature="e#663#868#0" />
+                <element signature="e#727#868#0" />
+                <element signature="e#778#820#0" />
+                <element signature="e#1031#1770#0" />
+                <element signature="e#1166#1266#0" />
+                <element signature="e#1568#1705#0" />
+                <element signature="e#1794#2125#0" />
+                <element signature="e#1840#1993#0" />
+                <element signature="e#2008#2066#0" />
+                <element signature="e#2026#2059#0" />
+                <element signature="e#2153#2334#0" />
+                <element signature="e#2369#2492#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/peugeot/menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DIRECTORY_ENTRY_RESOURCE</find>
+      <find>SectionStructure</find>
+      <find>IMAGE_SECTION_HEADER</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/peugeot/menu.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/peugeot/chg_sql_xml.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/peugeot/utils/repair_string.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/peugeot/menu.py" />
+        <option value="$PROJECT_DIR$/peugeot/repair_xml.py" />
+        <option value="$PROJECT_DIR$/peugeot/poluxdata.py" />
+        <option value="$PROJECT_DIR$/peugeot/get_string.py" />
+        <option value="$PROJECT_DIR$/peugeot/get_db_data.py" />
+        <option value="$PROJECT_DIR$/peugeot/chg_sql_csv.py" />
+        <option value="$PROJECT_DIR$/peugeot/repair.py" />
+        <option value="$PROJECT_DIR$/peugeot/utils/get_string_from_du8.py" />
+        <option value="$PROJECT_DIR$/peugeot/utils/db_export.py" />
+        <option value="$PROJECT_DIR$/peugeot/chg_sql_xls.py" />
+        <option value="$PROJECT_DIR$/peugeot/utils/repair_string.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/func_list_exp.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/pe_func_list_exp.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/peugeot/chg_sql_xml.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="347" />
+    <option name="y" value="89" />
+    <option name="width" value="1252" />
+    <option name="height" value="895" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Peugeot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Peugeot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Peugeot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Peugeot" type="462c0819:PsiDirectoryNode" />
+              <item name="peugeot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Peugeot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Peugeot" type="462c0819:PsiDirectoryNode" />
+              <item name="peugeot" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\my\Python\Peugeot\peugeot\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pe_func_list_exp">
+    <configuration name="chg_sql_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Peugeot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/peugeot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\my\Python\Peugeot\peugeot\chg_sql_xls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chg_sql_xls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Peugeot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/peugeot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/peugeot/chg_sql_xls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pe_func_list_exp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Peugeot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/pe_func_list_exp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="repair_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Peugeot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/peugeot/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/peugeot/utils/repair_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uzip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Peugeot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/uzip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pe_func_list_exp" />
+        <item itemvalue="Python.uzip" />
+        <item itemvalue="Python.repair_string" />
+        <item itemvalue="Python.chg_sql_xls" />
+        <item itemvalue="Python.chg_sql_csv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a307994-0908-49ae-b0c7-c99bf134ce2c" name="Default Changelist" comment="" />
+      <created>1577156678784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577156678784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.25195095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3567447" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.14381272" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20357142" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.26532888" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33667782" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.14381272" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../interpreter/python3.6/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/get_string.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pyexcel/core.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/firebirdsql/fbcore.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/xlwt/CompoundDoc.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pyexcel_xls/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/peugeot/utils/get_string_from_du8.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/firebirdsql/wireprotocol.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pyexcel_io/io.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/xlwt/Worksheet.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/xlwt/Row.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pyexcel_io/book.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pyexcel_xls/xlsw.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/xmltodict.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pefile.py" />
+    <entry file="file://$PROJECT_DIR$/peugeot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/DatanamesTOC.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/xxx.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/标志雪铁龙.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pe_resource_exp.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch3.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/ssss.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/translate.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/uzip.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pe_func_list_exp.py" />
+    <entry file="file://$PROJECT_DIR$/peugeot/utils/db_export.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/chg_sql_xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#507#996#0" />
+            <element signature="e#601#936#0" />
+            <element signature="e#663#868#0" />
+            <element signature="e#727#868#0" />
+            <element signature="e#778#820#0" />
+            <element signature="e#1031#1770#0" />
+            <element signature="e#1166#1266#0" />
+            <element signature="e#1568#1705#0" />
+            <element signature="e#1794#2125#0" />
+            <element signature="e#1840#1993#0" />
+            <element signature="e#2008#2066#0" />
+            <element signature="e#2026#2059#0" />
+            <element signature="e#2153#2334#0" />
+            <element signature="e#2369#2492#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/chg_sql_xls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#581#1069#0" />
+            <element signature="e#1106#1846#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peugeot/utils/repair_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
